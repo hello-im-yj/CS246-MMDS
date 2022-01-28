@@ -408,13 +408,13 @@ Frequent items : {1,2,3,5} (By Pass 1 - item’s count)
 
 ⇒ Result : Frequent itemsets are {1} {2} {3} {5} {1,3} {2,3} {2,5}
 
-# 6.3 Handling Larger Datasets in Main Memory
-
 The MMDS book covers several other extensions beyond the PCY idea: “Multistage” and “Multihash”
 
 - Recommended video (starting about 10:10): [https://www.youtube.com/watch?v=AGAkNiQnbjY](https://www.youtube.com/watch?v=AGAkNiQnbjY)
 
 # 6.4 Limited-Pass Algorithms
+
+---
 
 : Can we use fewer passes? ( in $\le k$ passes)
 
